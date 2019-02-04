@@ -1,5 +1,6 @@
+# remove the idea folder
+.idea
 # Logs
-# remove file .idea
 logs
 *.log
 npm-debug.log*
